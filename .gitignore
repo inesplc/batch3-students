@@ -276,3 +276,5 @@ portal/media/
 .env
 .envs/*
 !.envs/.local/
+*/.ipynb_checkpoints/
+.ipynb_checkpoints
